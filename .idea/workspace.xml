@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b67f024-fe18-41db-90dc-14d5c889e203" name="Default Changelist" comment="first ver">
+      <changelist_data name="zhao828" email="" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="be17dc1f-200a-4648-8ef3-c2523ebc6f72" />
+  </component>
+  <component name="ProjectId" id="1o5XGvVMjaP8ksGRvNool62xaaj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhaos\IdeaProjects\c2c-demo\c2c-report\src\main\java" />
+      <recent name="C:\Users\zhaos\IdeaProjects\c2c-demo\c2c-report\src\main\resources" />
+      <recent name="C:\Users\zhaos\IdeaProjects\c2c-demo\c2c-reward-api\src\main\java\org\zs\c2c\reward\api" />
+      <recent name="C:\Users\zhaos\IdeaProjects\c2c-demo\src\main\resources" />
+      <recent name="C:\Users\zhaos\IdeaProjects\c2c-demo\c2c-reviewer\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhaos\IdeaProjects\c2c-demo\c2c-reward\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (1)">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="c2c-reward" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.zs.c2c.reward.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.zs.c2c.reward.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="c2c-reviewer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.zs.c2c.reviewer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.zs.c2c.reviewer.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b67f024-fe18-41db-90dc-14d5c889e203" name="Default Changelist" comment="" />
+      <created>1612577332702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612577332702</updated>
+      <workItem from="1612577335519" duration="880000" />
+      <workItem from="1612578235657" duration="8137000" />
+      <workItem from="1612587232697" duration="386000" />
+      <workItem from="1612587629397" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new">
+      <created>1612585187668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612585187668</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1612586874422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612586874422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="489" key="#Deployment" timestamp="1612587900810">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="775" y="489" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1612587900810" />
+    <state x="1031" y="410" key="#Project_Structure" timestamp="1612584574488">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1031" y="410" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1612584574488" />
+    <state x="1331" y="590" key="FileChooserDialogImpl" timestamp="1612587417727">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1331" y="590" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1612587417727" />
+    <state x="1658" y="711" key="Github.CreateGistDialog" timestamp="1612587736618">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1658" y="711" key="Github.CreateGistDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612587736618" />
+    <state x="1717" y="690" key="Github.ShareDialog" timestamp="1612587638894">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1717" y="690" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612587638894" />
+    <state x="1553" y="497" key="Github.UntrackedFilesDialog" timestamp="1612584272069">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1553" y="497" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612584272069" />
+    <state width="1303" height="285" key="GridCell.Tab.0.bottom" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state width="1303" height="285" key="GridCell.Tab.0.center" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state width="1303" height="285" key="GridCell.Tab.0.left" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state width="1303" height="285" key="GridCell.Tab.0.right" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state width="1303" height="285" key="GridCell.Tab.1.bottom" timestamp="1612587214579">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214579" />
+    <state width="1303" height="285" key="GridCell.Tab.1.center" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state width="1303" height="285" key="GridCell.Tab.1.left" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state width="1303" height="285" key="GridCell.Tab.1.right" timestamp="1612587214578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1303" height="285" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214578" />
+    <state x="1269" y="430" key="SettingsEditor" timestamp="1612587029168">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1269" y="430" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1612587029168" />
+    <state x="956" y="396" key="Vcs.Push.Dialog.v2" timestamp="1612586881230">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="956" y="396" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1612586881230" />
+    <state x="827" y="494" width="1163" height="859" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1612587214680">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="827" y="494" width="1163" height="859" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612587214680" />
+    <state x="841" y="693" key="git4idea.rebase.GitRebaseDialog" timestamp="1612586834273">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="841" y="693" key="git4idea.rebase.GitRebaseDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612586834273" />
+    <state x="1648" y="699" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612584118869">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1648" y="699" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612584118869" />
+    <state x="841" y="726" key="git4idea.ui.GitResetDialog" timestamp="1612587094875">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="841" y="726" key="git4idea.ui.GitResetDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1612587094875" />
+    <state x="925" y="496" key="new project wizard" timestamp="1612579835673">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="925" y="496" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1612579835673" />
+    <state x="1583" y="320" key="search.everywhere.popup" timestamp="1612580778979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1612580778979" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+# Project exclude paths
+/c2c-reviewer/target/
+/c2c-reviewer-api/target/
+/c2c-reward/target/
+/c2c-reward-api/target/
