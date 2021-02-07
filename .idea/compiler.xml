@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="c2c-reward-api" />
-        <module name="c2c-reviewer-api" />
+        <module name="c2c-reviewer" />
         <module name="c2c-report" />
         <module name="c2c-reward" />
-        <module name="c2c-reviewer" />
+        <module name="c2c-reviewer-api" />
       </profile>
     </annotationProcessing>
   </component>
